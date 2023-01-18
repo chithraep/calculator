@@ -35,6 +35,12 @@ let y=++num //pre increment
 console.log(y,num) */
 
 
-let num = 5
+/* let num = 5
 let result =Math.pow(4,3)
-console.log(result)
+console.log(result) */
+
+
+
+let num = 5
+let result =5 **3
+console.log(result) 
