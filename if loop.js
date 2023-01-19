@@ -1,8 +1,8 @@
 let num = 3;
 let num2 = 4;
 
-let result =num > num2
-if(result){
+if(num > num2){
+
 
 console.log("num is greater")
 }else{
